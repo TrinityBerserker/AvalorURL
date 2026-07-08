@@ -1,2 +1,18 @@
-# AvalorURL
-🔍 Ingresa la URL a analizar: http://192.168.1.1/admin/login.php  📊 ANÁLISIS DETALLADO:    🌐 Usa dirección IP directa (+30)    🔗 Demasiados subdominios (+15)    ⚠️ Palabra clave 'login' detectada (+5)    🔓 Conexión HTTP (no cifrada) (+10)    ⛔ La URL no responde (+10)  🎯 PUNTAJE DE RIESGO: 70% 🔴 ALERTA MÁXIMA: Probabilidad muy alta de phishin
+# AvalorURL 🛡️
+
+**AvalorURL** es una herramienta heurística en Python para analizar y detectar posibles URL de phishing. 
+Evalúa múltiples señales de riesgo (subdominios, guiones, protocolo, palabras clave, etc.) y te da un puntaje del 0% al 100%.
+
+## 🚀 Características
+- ✅ Análisis de longitud, subdominios, guiones y palabras clave.
+- ✅ Detección de IPs directas y protocolos inseguros (HTTP).
+- ✅ Verificación de respuesta HTTP y redirecciones.
+- ✅ Sistema de puntuación de 0 a 100% con **recomendaciones contextuales**.
+- ✅ Código 100% Python, fácil de modificar o expandir.
+
+## 📦 Instalación
+
+Clona el repositorio y entra en la carpeta:
+```bash
+git clone https://github.com/TrinityBerserker/AvalorURL.git
+cd AvalorURL
