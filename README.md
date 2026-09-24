@@ -84,14 +84,3 @@ Al analizar una IP directa sospechosa, la salida será similar a esta:
 Creado por **[TrinityBerserker](https://github.com/TrinityBerserker)**.  
 ¿Ideas para mejorarlo? ¡Abre un Issue o haz un Pull Request! 🤝
 ```
-
----
-
-### ✅ ¿Qué hacer ahora?
-1. Ve a tu repositorio en GitHub.
-2. Haz clic en el lápiz ✏️ para editar `README.md`.
-3. Borra todo el contenido actual.
-4. Pega todo el bloque de arriba.
-5. En la parte inferior, escribe un mensaje como *"Actualizo README con formato profesional"* y haz clic en **"Commit changes"**.
-
-¡Listo! Ahora tu repositorio se verá **profesional y listo para compartir**. 🚀🐍
