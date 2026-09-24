@@ -1,8 +1,3 @@
-¡Listo! Aquí tienes el **README.md completo y formateado** para que lo copies y pegues directamente en tu repositorio de GitHub. 
-
-Solo tienes que ir a tu repositorio, hacer clic en el lápiz ✏️ para editar el `README.md`, borrar lo que tengas y pegar **todo esto**:
-
----
 
 ```markdown
 # AvalorURL 🛡️
